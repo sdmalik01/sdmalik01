@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I’m Sayyad Malik  
 
-<!--
-**sdmalik01/sdmalik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech IT | 🤖 AI & ML Enthusiast | 🌍 Open-Source Contributor  
+🚀 Building tech at the intersection of **AI, IoT & Healthcare**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👤 Who am I?
+A curious engineer passionate about **solving real-world problems using AI, ML, and IoT**, with a strong interest in research, healthcare innovation, and impactful technology.
+
+---
+
+### 🔭 What am I currently working on?
+- 🏥 **ML + IoT Healthcare system for stroke patients** *(Patent in process)*  
+- 📄 **IoT-based system to combat famine areas** — *Published @ IRDCP 2024*  
+- 🧠 **Enhanced Hybrid AI system for fake news verification** — *Submitted to IEEE Xplore*  
+- 🌱 Open-source contributions & GSoC 2026 preparation  
+
+---
+
+### 🛠️ What tools & tech do I use?
+**Languages:** Python, Java  
+**AI/ML:** NumPy, Pandas, Scikit-learn, ML pipelines  
+**IoT:** ESP32, Sensors, Embedded Systems  
+**Cloud & Dev:** Git, GitHub, Firebase, FlutterFlow  
+**Domains:** Healthcare AI, Data Science, Applied Research  
+
+---
+
+### 📫 How to reach me?
+- 🐙 GitHub: https://github.com/sdmalik01  
+- 💼 LinkedIn: https://www.linkedin.com/in/sayyad-malik-296a7131b/  
+
+---
+
+✨ *Always learning. Always building. Always curious.*
